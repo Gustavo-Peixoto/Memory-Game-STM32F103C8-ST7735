@@ -1,0 +1,17 @@
+main.c:377:5:main	32	static
+main.c:456:6:SystemClock_Config	72	static
+main.c:494:13:MX_SPI1_Init	8	static
+main.c:532:13:MX_GPIO_Init	32	static
+main.c:573:6:IniciarJogo	48	static
+main.c:644:6:TamanhoMatriz	40	static
+main.c:727:6:GerarParesAleatorios	24	static
+main.c:751:6:NavegarCursor	32	static
+main.c:795:6:SelecionarCarta	24	static
+main.c:800:6:CompararCarta	16	static
+main.c:855:6:VerificarFimDeJogo	24	static
+main.c:871:6:AtualizarTentativas	4	static
+main.c:876:6:AtualizarRecorde	4	static
+main.c:888:6:ExibirFimDeJogo	24	static
+main.c:938:6:MostrarCartas	32	static
+main.c:950:6:ModificarJogador	8	static
+main.c:973:6:Error_Handler	4	static,ignoring_inline_asm
